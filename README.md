@@ -5,7 +5,9 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Um projeto web feito com **Next.js** que lista os 151 primeiros Pokémons, permitindo busca, visualização detalhada e favoritos. A aplicação consome dados da [PokeAPI](https://pokeapi.co).
-
+---
+## Hospedagem na Vercel
+https://ws-frontend-fabrica25-2-mu.vercel.app/
 ---
 
 ## Funcionalidades
@@ -27,7 +29,8 @@ Um projeto web feito com **Next.js** que lista os 151 primeiros Pokémons, permi
 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
-- CSS puro
+- Javascript
+- CSS
 - [PokeAPI](https://pokeapi.co) para os dados dos Pokémons
 
 ---
