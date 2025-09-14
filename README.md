@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# wsFrontend-Fabrica25.2
-=======
 # PokeAPI
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/) 
@@ -78,4 +75,3 @@ Abra o navegador em:
 arduino
 Copiar código
 http://localhost:3000
->>>>>>> 3b0bf0c (Projeto PokeApi)
